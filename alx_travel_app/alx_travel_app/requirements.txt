@@ -5,4 +5,4 @@ Proficiency in MySQL and handling database operations.
 Familiarity with Git for version control and collaboration.
 Basic understanding of managing environment variables, preferably using django-environ or similar tools.
 Ensure these prerequisites are met before proceeding with the milestone tasks.
-
+m
